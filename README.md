@@ -1,6 +1,6 @@
 # DEMO
 
-[Click here]((https://todo-vignesh0710.netlify.app/))
+[Click here](https://todo-vignesh0710.netlify.app/)
 
 # Getting Started with Create React App
 
